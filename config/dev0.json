@@ -1,0 +1,8 @@
+{
+    "ip": "127.0.0.2",
+    "port": 6000,
+    "db": {
+        "host": "mongo.db.dev0",
+        "password": "dev0123"
+    }
+}

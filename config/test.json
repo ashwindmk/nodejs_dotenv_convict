@@ -1,0 +1,7 @@
+{
+    "db": {
+        "host": "mongo.db.test",
+        "username": "user@test.com",
+        "password": "test123"
+    }
+}

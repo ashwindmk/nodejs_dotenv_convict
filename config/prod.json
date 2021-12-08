@@ -1,0 +1,9 @@
+{
+    "ip": "127.0.0.2",
+    "port": 31000,
+    "db": {
+        "host": "mongo.db.prod",
+        "username": "user@prod.com",
+        "password": "prod123"
+    }
+}
